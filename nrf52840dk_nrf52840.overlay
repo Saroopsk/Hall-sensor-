@@ -1,8 +1,0 @@
-
-/{
-	aliases {
-		gpio-pin = &gpio0;
-	};
-};
-
-
