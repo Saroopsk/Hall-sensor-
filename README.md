@@ -1,2 +1,1 @@
-# Hall-sensor-
-Muzzle velocity hall sensor
+This project implements a wirelessly programmable fuse.
