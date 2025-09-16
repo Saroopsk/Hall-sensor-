@@ -1,1 +1,0 @@
-This project implements a wirelessly programmable fuse.
