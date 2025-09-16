@@ -1,4 +1,0 @@
-[2025-Jul-29 12:52:45] [debug] --------------------------------------------------------------------------------
-[2025-Jul-29 12:52:45] [debug] C:\Program Files\Nordic Semiconductor\nrf-command-line-tools\bin\nrfjprog.exe --family NRF52 --memwrite 0x10001080 --val 0x12345678 --verify --log 
-[2025-Jul-29 12:52:45] [debug] nrfjprog version 10.24.2 external
-[2025-Jul-29 12:52:45] [debug] --------------------------------------------------------------------------------
