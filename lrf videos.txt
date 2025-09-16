@@ -1,0 +1,45 @@
+1) Laser beam divergence (why dots grow apart)
+
+Watch: Laser Beam Divergence Experiment with Sam Houston — shows how a laser spot spreads with distance so you “see” divergence, not just hear about it. 
+YouTube
+
+https://www.youtube.com/watch?v=Ds0I88xH9kU
+
+2) Optics & collimation (how lenses shape the beam)
+
+Watch: Collimate a Laser with a Shear-Plate / Lab Demo on Collimators — practical demos of collimating light and beam expanders so you learn how to make a beam less divergent. 
+YouTube
++1
+
+https://www.youtube.com/watch?v=iNgD4UKAuXg
+
+https://www.youtube.com/watch?v=G9rxxHsMU6I
+
+3) Parallel vs crossing (zeroing) — the exact aiming tradeoff
+
+Watch: Zeroing your Laser: Parallel vs Converging Zeros (and Parallel Zeroing for Dummies) — explains the difference between making beams truly parallel vs making them meet at a chosen zero distance. Very close to the real-world decision you asked about. 
+YouTube
++1
+
+https://www.youtube.com/watch?v=9omtdrgrEFM
+
+
+4) Visible vs infrared (why some beams aren’t seen)
+
+Watch: Science In A Minute: What is Infrared Light? — short and clear on why IR is invisible to your eyes/scope and how cameras can reveal it. 
+YouTube
+
+https://www.youtube.com/watch?v=XCD6fAHc97c
+
+(Optional) 5) Measurement / deeper numbers (spot size, mrad)
+
+Watch: BeamGage Tutorial: Spot Size and Divergence — if you want hard numbers (mrad, spot diameter at range), this shows measurement methods. 
+YouTube
+
+https://www.youtube.com/watch?v=E-VzA8BKdIU
+
+
+
+
+
+6)https://youtu.be/ctI6YeULu8E?si=2HakNjDS4rtXOAn4
